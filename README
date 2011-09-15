@@ -1,0 +1,8 @@
+usage:	./rrs.py [ -c <addr:port> || -l <port> ]
+	./rrs.py is 2-in-1 program, you should choose one (and only) mode
+
+	  mode -c (connector), should be called inside firewall
+	  mode -l (listener), should be called in a public host
+
+author: chopin1998@gmail.com 	 version: 0.1-03-2007-rc 	 license: GPLv2
+
