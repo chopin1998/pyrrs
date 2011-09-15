@@ -270,7 +270,7 @@ def usage_ball(full=False):
         print '\t%s is 2-in-1 program, you should choose one (and only) mode\n' %sys.argv[0]
         print '\t  mode -c (connector), should be called inside firewall'
         print '\t  mode -l (listener), should be called in a public host'
-        print '\nauthor: marco@waven.com \t version: 0.1-03-2007-rc \t license: GPLv2'
+        print '\nauthor: chopin1998@gmail.com \t version: 0.1-03-2007-rc \t license: GPLv2'
 
 #########################
 #
