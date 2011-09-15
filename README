@@ -6,3 +6,9 @@ usage:	./rrs.py [ -c <addr:port> || -l <port> ]
 
 author: chopin1998@gmail.com 	 version: 0.1-03-2007-rc 	 license: GPLv2
 
+====
+
+you can put a file named "passwd"(in connector mode), which contain a AES password for remote connect
+eg:
+    if your password is '123456', you should put "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92" to 'passwd'
+    you know its SHA256
